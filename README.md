@@ -25,7 +25,7 @@ This Tableau dashboard provides a deep-dive into employee attrition using HR dat
 
 ## 🗃️ Dataset Source
 
-- 📁 File: [`HR_dataset.xlsx`](data/HR_Data.xlsx)
+- 📁 File: [`HR_dataset.xlsx`](data/HRData.xlsx)
 - Format: xlsx 
 - Records: 1,470 employees  
 - Note: Data used is **non-confidential** and publicly available
