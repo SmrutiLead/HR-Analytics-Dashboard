@@ -44,7 +44,7 @@ This Tableau dashboard provides a deep-dive into employee attrition using HR dat
 
 **Smruti**  
 Business Analytics Undergraduate | Tableau Enthusiast | Data Storyteller  
-[LinkedIn](https://www.linkedin.com/in/iamsmrutip28/) • [Portfolio](https://your-site.com)
+[LinkedIn](https://www.linkedin.com/in/iamsmrutip28/) 
 
 ---
 
