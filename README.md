@@ -25,7 +25,6 @@ This Tableau dashboard provides a deep-dive into employee attrition using HR dat
 
 ## 🗃️ Dataset Source
 
-- Kaggle: [HR Analytics Dataset](https://www.kaggle.com)
 - 📁 File: [`HR_dataset.xlsx`](data/HR_Data.xlsx)
 - Format: xlsx 
 - Records: 1,470 employees  
