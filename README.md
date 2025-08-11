@@ -38,7 +38,7 @@ This Tableau dashboard provides a deep-dive into employee attrition using HR dat
 
 ## 🌐 Optional: View Live on Tableau Public
 
-> Coming soon! (link)
+> (https://public.tableau.com/app/profile/smruti.patel4067/viz/HR_Analytics_Dashboard_17549379364160/HRAnalyticsDashboard)
 
 ## 👩‍💻 About Me
 
